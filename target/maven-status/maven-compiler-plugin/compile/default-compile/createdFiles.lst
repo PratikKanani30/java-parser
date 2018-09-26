@@ -1,0 +1,7 @@
+com\ef\constant\Duration.class
+com\ef\Parser.class
+com\ef\dao\LogDao.class
+com\ef\dao\DatabaseFactory.class
+com\ef\dao\LogComment.class
+com\ef\parser\LogParser.class
+com\ef\LogData.class
